@@ -1,0 +1,5 @@
+id,folder_path,filename,extension,s3_url,collection_tag,audio_url,album_art_url
+1,01_singles/,01_will_you_listen,md,https://s3.omniversalmedia.app/src/data/HAWK-ARS-00/01_singles/01_will_you_listen.md,Singles,,
+2,02_mixtape_sessions/01_full_disclosure/,01_swordfish,md,https://s3.omniversalmedia.app/src/data/HAWK-ARS-00/02_mixtape_sessions/01_full_disclosure/01_swordfish.md,Full Disclosure,,
+3,02_mixtape_sessions/01_full_disclosure/,02_mic_check,md,https://s3.omniversalmedia.app/src/data/HAWK-ARS-00/02_mixtape_sessions/01_full_disclosure/02_mic_check.md,Full Disclosure,,
+4,03_phase2/04_malicious/,01_malicious_intro,md,https://s3.omniversalmedia.app/src/data/HAWK-ARS-00/03_phase2/04_malicious/01_malicious_intro.md,Malicious EP,,
