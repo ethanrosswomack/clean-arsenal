@@ -1,0 +1,57 @@
+---
+const { title = "Omniversal Media" } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>{title}</title>
+
+    <link rel="stylesheet" href="/aether-theme.css" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron&family=Space+Mono&display=swap" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <header class="site-header">
+      <div class="logo-title">
+        <img src="/assets/images/Omniversal_Symbol.png" alt="Omniversal Symbol" class="symbol" />
+        <div class="site-title">Omniversal Media, LLC</div>
+      </div>
+  
+      <nav class="nav-links">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about">About</a></li>
+          <li><a href="/services">Services</a></li>
+          <li class="dropdown-only"><a href="/blog">Blog</a></li>
+          <li class="dropdown-only"><a href="/contact">Contact</a></li>
+        </ul>
+      </nav>
+
+      <input type="checkbox" id="menu-toggle" class="menu-toggle" />
+      <label for="menu-toggle" class="menu-icon">☰</label>
+      
+   
+    </header>
+
+    <main>
+      <slot />
+    </main>
+    
+    <footer class="footer">
+      <img src="/assets/images/Omniversal_Symbol.png" alt="Omniversal Symbol" class="symbol-footer" />
+      <div class="footer-text">
+        <p class="line-1">© 2025 Omniversal Media, LLC</p>
+        <p class="line-2">8401 Mayland Dr, Henrico, VA 23294</p>
+        <p class="line-3">(434) 554-1817 | <a href="mailto:admin@omniversalnetwork.com">admin@omniversalnetwork.com</a></p>
+      </div>
+    </footer>
+  </body>
+</html>

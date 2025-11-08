@@ -1,0 +1,30 @@
+.
+├── README.md
+├── astro.config.mjs
+├── package-lock.json
+├── package.json
+├── public
+│   ├── aether-theme.css
+│   ├── aether-theme.css.bak
+│   ├── assets
+│   │   └── images
+│   └── favicon.svg
+├── src
+│   ├── assets
+│   │   ├── astro.svg
+│   │   └── background.svg
+│   ├── components
+│   │   └── Welcome.astro
+│   ├── layouts
+│   │   ├── BaseLayout.astro
+│   │   └── Layout.astro
+│   └── pages
+│       ├── about.astro
+│       ├── blog
+│       ├── contact.astro
+│       ├── index.astro
+│       └── services.astro
+├── tree.txt
+└── tsconfig.json
+
+10 directories, 18 files

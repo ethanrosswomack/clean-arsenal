@@ -127,7 +127,7 @@ Rap Notebook (.ipynb) → HAWK-ARS-00 (.md) → Final Archive Integration
 ### HAWK-ARS-00 Master Archive
 - **Primary Integration:** Complete content synchronization
 - **Status:** ✅ Fully Integrated
-- **Archive Link:** [HAWK-ARS-00 Master Archive](../../../lyrics/HAWK-ARS-00/00_hawk_ars_master_final_archive.md)
+- **Archive Link:** [HAWK-ARS-00 Master Archive](../../../../../.idea/lyrics/HAWK-ARS-00/00_hawk_ars_master_final_archive.md)
 
 ### Development Environment Assets
 - **Audio Integration:** Links to audio assets in production environment
@@ -182,7 +182,7 @@ The development infrastructure is complete and ready for the next phase of consc
 
 ---
 
-[HAWK-ARS-00 Master Archive](../../../lyrics/HAWK-ARS-00/00_hawk_ars_master_final_archive.md) | [Development Environment](../README.md)
+[HAWK-ARS-00 Master Archive](../../../../../.idea/lyrics/HAWK-ARS-00/00_hawk_ars_master_final_archive.md) | [Development Environment](../README.md)
 
 ---
 
